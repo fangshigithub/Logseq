@@ -1,2 +1,2 @@
 # Logseq
-存储logseq笔记
+存储Logseq笔记
